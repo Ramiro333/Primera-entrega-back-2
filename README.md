@@ -1,1 +1,1 @@
-# Primera-entrega-back-2
+no estoy seguro de si la idea es usar almacenamiento local como en la clase 6 o usar mongo db para almacenar a los usuarios, opte por usar mongo db
